@@ -1,0 +1,17 @@
+{
+  "type of meal": "Meal Plan 1",
+  "room type": "Room_Type 1",
+  "market segment type": "Online",
+  "car parking space": 0,
+  "repeated": 0,
+  "number of adults": 2,
+  "number of children": 0,
+  "number of weekend nights": 0,
+  "number of week nights": 3,
+  "lead time": 77,
+  "P-C": 0,
+  "P-not-C": 0,
+  "average price": 109.93,
+  "special requests": 1,
+  "date of reservation": "12/31/2017"
+}

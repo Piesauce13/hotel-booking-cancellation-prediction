@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+*.pem
+*.ppk
+.DS_Store
+
+# Generated training logs and report figures
+notebooks/catboost_info/
+reports/figures/*
+!reports/figures/.gitkeep
