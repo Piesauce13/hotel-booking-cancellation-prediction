@@ -3,15 +3,11 @@
   "room type": "Room_Type 1",
   "market segment type": "Online",
   "car parking space": 0,
-  "repeated": 0,
   "number of adults": 2,
-  "number of children": 0,
-  "number of weekend nights": 0,
-  "number of week nights": 3,
-  "lead time": 77,
-  "P-C": 0,
-  "P-not-C": 0,
-  "average price": 109.93,
-  "special requests": 1,
-  "date of reservation": "12/31/2017"
+  "number of weekend nights": 1,
+  "number of week nights": 2,
+  "lead time": 120,
+  "average price": 95.0,
+  "special requests": 0,
+  "date of reservation": "2018-06-15"
 }
